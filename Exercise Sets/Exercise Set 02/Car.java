@@ -33,7 +33,9 @@ public class Car {
         char upperCaseSize = Character.toUpperCase(size);
         if (upperCaseSize == 'S' || upperCaseSize == 'M' || upperCaseSize == 'L') {
             this.size = upperCaseSize;
-        } else {
+        } 
+        
+        else {
             throw new IllegalArgumentException("Size must be 'S', 'M', or 'L'");
         }
     }
@@ -53,8 +55,8 @@ public class Car {
             default:
                 sizeDescriptor = "unknown"; 
         }
-        return String.format("Car (%s) - P%.2f - %s", color, price, sizeDescriptor);
 
+        return String.format("Car (%s) - P%.2f - %s", color, price, sizeDescriptor);
     }
 }
 
