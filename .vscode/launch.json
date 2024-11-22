@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ArtistDemo",
+      "request": "launch",
+      "mainClass": "ArtistDemo",
+      "projectName": "AlvarezFrancineAnneCS2102_OOPactivities_e7920a79"
+    },
+    {
+      "type": "java",
       "name": "Main",
       "request": "launch",
       "mainClass": "Main",
