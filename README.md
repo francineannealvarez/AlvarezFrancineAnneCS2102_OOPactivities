@@ -136,7 +136,7 @@ Clone the repository to your local machine using Git:
 ```bash
 git clone https://github.com/your-username/YourRepositoryName.git
 cd YourRepositoryName
-
+```
 Alternatively, you can download the repository as a ZIP file and extract it.
 
 #### ⚙️ **Install JDK (Java Development Kit)**
@@ -145,7 +145,7 @@ Download and install the Java Development Kit (JDK). Ensure you have JDK 8 or a 
 Confirm the installation by running the following command in your terminal or command prompt:
 ```bash
 java -version
-
+```
 You should see a version number indicating that Java is installed correctly.
 
 #### 🖥️ **Install a Java IDE or Text Editor**
