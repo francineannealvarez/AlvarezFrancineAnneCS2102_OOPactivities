@@ -36,53 +36,52 @@ As you explore the activities, you'll notice that the focus shifts from simple p
 - 📝 **Laboratory Activity 1 – 06-09-2024**
   - **Focus:** Basic inputs  
   - **Files:**
-   - `GettingInputs.java` – Demonstrates how to get user inputs in Java.
-   - `GettingGreater.java` – Uses conditional statements to determine the greater of two numbers.
-   - `GettingInputs_output` (image file), `GettingGreater_output` (image file) - showcasing the output of the programs.
+     - `GettingInputs.java` – Demonstrates how to get user inputs in Java.
+     - `GettingGreater.java` – Uses conditional statements to determine the greater of two numbers.
+     - `GettingInputs_output` (image file), `GettingGreater_output` (image file) - showcasing the output of the programs.
 
 ---
 
 - 📝 **Laboratory Activity 2 – 04-10-2024**
   - **Focus:** Arrays and loops  
   - **Files:**
-   - `GetArrayMean.java` – Computes the mean of an array.
-   - `MultiplicationTable.java` – Generates a multiplication table based on user input.
-   - `GetArrayMean_output` (image file), `MultiplicationTable_output` (image file) - showing the results of these programs.
+     - `GetArrayMean.java` – Computes the mean of an array.
+     - `MultiplicationTable.java` – Generates a multiplication table based on user input.
+     - `GetArrayMean_output` (image file), `MultiplicationTable_output` (image file) - showing the results of these programs.
 
 ---
 
 - 📝 **Laboratory Activity 3 – 22-11-2024**
   - **Focus:** Inheritance and polymorphism  
   - **Files:**
-   - **Artists Subfolder:**
-     - `Artist.java` – A base class for artists.
-     - `Singer.java`, `Dancer.java`, `Painter.java`, `Writer.java` – Derived classes that represent different types of artists.
-     - `ArtistDemo.java` – A driver code demonstrating the use of the artist hierarchy.
-   - **Output Screenshots Subfolder**
-     - Images showing the output of each derived class when instantiated and their behavior.
+     - **Artists Subfolder:**
+        - `Artist.java` – A base class for artists.
+        - `Singer.java`, `Dancer.java`, `Painter.java`, `Writer.java` – Derived classes that represent different types of artists.
+        - `ArtistDemo.java` – A driver code demonstrating the use of the artist hierarchy.
+     - **Output Screenshots Subfolder**
+        - Images showing the output of each derived class when instantiated and their behavior.
 
 ---
 
 - 📝 **Laboratory Activity 4 – 29-11-2024**
   - **Focus:** Abstraction  
   - **Files:**
-   - **Shapes Subfolder:**
-     - `Shape.java` – An interface that all shapes implement.
-     - `Rectangle.java`, `Square.java`, `Triangle.java` – Shape classes that implement the `Shape` interface.
-     - `ShapeCollection.java` – Manages a collection of shapes and calculates their properties.
-     - `Main.java` – Main class to run the program.
-     - `Lab4-output` - Image files of the output of the shape properties.
+     - **Shapes Subfolder:**
+        - `Shape.java` – An interface that all shapes implement.
+        - `Rectangle.java`, `Square.java`, `Triangle.java` – Shape classes that implement the `Shape` interface.
+        - `ShapeCollection.java` – Manages a collection of shapes and calculates their properties.
+        - `Main.java` – Main class to run the program.
+        - `Lab4-output` - Image files of the output of the shape properties.
 
 ---
 
 ## 💻 **Exercise Sets**
-
 -📝 **Exercise Set 1**
   - **Focus:** Basic programming tasks  
   - **Files:**
-   - `Welcome.java` – Prints a welcome message.
-   - `Escseq.java` – Demonstrates escape sequences in Java.
-   - `Tempconvert.java` – Converts temperatures between Fahrenheit and Celsius.
+     - `Welcome.java` – Prints a welcome message.
+     - `Escseq.java` – Demonstrates escape sequences in Java.
+     - `Tempconvert.java` – Converts temperatures between Fahrenheit and Celsius.
 
 ---
 
