@@ -91,6 +91,8 @@ As you explore the activities, you'll notice that the focus shifts from simple p
 - **Code Evaluation**: Check for clarity, correctness, and proper implementation of the relevant programming concepts. Reviewers should pay attention to how basic programming principles (such as handling input/output and arrays) are applied, as well as the more advanced OOP principles (like inheritance, polymorphism, abstraction, and encapsulation) in the activities where applicable.
 - **Running the Code**: Reviewers can follow the setup instructions to clone, run, and evaluate the code on their local machines.
 
+---
+
 ## 🖥️ Instructions for Running the Program
 
 ### 🛠️ Setup Instructions
@@ -114,11 +116,12 @@ java -version
 You should see a version number indicating that Java is installed correctly.
 
 #### 🖥️ **Install a Java IDE or Text Editor**
-Choose and install a Java-friendly IDE or text editor for writing and running code. Some recommended options:
- - IntelliJ IDEA
- - Eclipse
- - Visual Studio Code with the Java Extension Pack
- - NetBeans
+- Choose and install a Java-friendly IDE or text editor for writing and running code. Some recommended options:
+    - IntelliJ IDEA
+    - Eclipse
+    - Visual Studio Code with the Java Extension Pack
+    - NetBeans
+      
 Alternatively, you can use the command line to compile and run the programs.
 
 #### 🚀 **Running the Programs**
