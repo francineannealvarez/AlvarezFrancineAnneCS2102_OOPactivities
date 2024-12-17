@@ -3,34 +3,34 @@
 This repository contains a collection of laboratory activities and exercises created as part of my CS 211: Object-Oriented Programming (OOP) course. Each activity demonstrates core OOP concepts such as inheritance, polymorphism, abstraction, and encapsulation, all implemented in Java. The activities are designed to help deepen understanding and showcase practical application of these concepts.
 
 The repository includes:
-   - **Laboratory Activities**: These are real-world programming exercises that focus on basic to fundamental and advanced Java concepts.
-   - **Exercise Sets**: A set of smaller, focused tasks for honing basic Java skills.
+   - **Laboratory Activities**: Real-world programming exercises focused on fundamental to advanced Java concepts.
+   - **Exercise Sets**: Smaller tasks to improve basic Java skills.
 
-By exploring this repository, you'll gain hands-on experience with Java programming, focusing on OOP principles.
+Exploring this repository will give you hands-on experience with Java programming, focusing on OOP principles.
 
 ## 📚 Purpose and Learning Goals of This Repository 
 The purpose of this repository is multifaceted:
 1. **Track Progress**: It documents my journey of learning and mastering the Java programming language, highlighting progress through hands-on laboratory activities and exercises.
-2. **Reference Material**: It provides a clear reference for fellow students and aspiring developers, offering examples of both fundamental and advanced Java concepts—ranging from basic tasks like handling user input to more complex topics such as inheritance, polymorphism, encapsulation, and abstraction.
-3. **Practical Application**: This collection demonstrates the application of Java and OOP concepts in real-world scenarios. You’ll see how these concepts are applied in various laboratory activities and exercise sets.
-4. **Collaborative Learning**: By sharing this repository, I hope to inspire others to learn, grow, and build their own Java applications. I believe in the power of collaborative learning, and I hope this repository serves as a helpful resource for anyone interested in expanding their Java skills.
+2. **Reference Material**: It provides a clear reference for fellow students and aspiring developers, offering examples of both basic and advanced Java concepts.
+3. **Practical Application**: Showcase how OOP principles are used in real-world programming. You’ll see how these concepts are applied in various laboratory activities and exercise sets.
+4. **Collaborative Learning**: By sharing this repository, I hope to inspire others to learn, grow, and build their own Java applications. 
 5. **Balance Between Basic and Advanced Topics**: This repository covers both foundational Java concepts (input/output, arrays, loops) and advanced OOP principles (inheritance, polymorphism, abstraction, and encapsulation). Early activities focus on basics, while later activities introduce more complex topics, ensuring a smooth learning progression.
    
 ---
 
-## ✨ **Java OOP Concepts**
+## ✨ Core Java OOP Concepts
 Learn, implement, and build powerful Java applications with Object-Oriented Programming concepts such as:
 - **Inheritance:** Creating classes that inherit properties and behaviors from other classes.
 - **Polymorphism:** Using objects of different classes interchangeably through inheritance.
 - **Encapsulation:** Encapsulating data to hide implementation details and only expose necessary functionalities.
-- **Abstraction:** Hiding the complex implementation details and only showing the essential features.
+- **Abstraction:** Hiding complex details and only showing the essential features.
 
 ---
 
-## 🔍 Lab Activities
-The following laboratory activities are organized to progress from foundational Java concepts to more advanced OOP principles:
-- **Basic Topics**: Activities that focus on fundamental concepts such as input/output, arrays, and loops.
-- **Advanced OOP Topics**: Activities that focus on more complex topics like inheritance, polymorphism, abstraction, and encapsulation.
+## 🔍 Laboratory Activities
+The following activities range from basic Java programming tasks to advanced OOP principles:
+- **Basic Topics:** Input/output, arrays, and loops.
+- **Advanced OOP Topics:** Inheritance, polymorphism, abstraction, and encapsulation.
 
 As you explore the activities, you'll notice that the focus shifts from simple programming tasks to advanced applications of Object-Oriented Programming.
 - 📝 **Laboratory Activity 1 – 06-09-2024**
@@ -86,10 +86,10 @@ As you explore the activities, you'll notice that the focus shifts from simple p
 ---
 
 ## 📂 **Instructions for Reviewers**
-- **Explore the Activities**: Each laboratory activity is clearly labeled and organized by date. Reviewers can explore each folder to understand the focus of the exercise and the associated Java files.
-- **Expected Learning Outcome**: After reviewing the activities, it should be clear how each exercise contributes to mastering specific Java concepts and general programming skills, such as input/output, arrays, classes, objects, and foundational OOP principles.
-- **Code Evaluation**: Check for clarity, correctness, and proper implementation of the relevant programming concepts. Reviewers should pay attention to how basic programming principles (such as handling input/output and arrays) are applied, as well as the more advanced OOP principles (like inheritance, polymorphism, abstraction, and encapsulation) in the activities where applicable.
-- **Running the Code**: Reviewers can follow the setup instructions to clone, run, and evaluate the code on their local machines.
+- **Explore the Activities:** Each laboratory activity is clearly labeled and organized by date. Reviewers can explore each folder to understand the focus of the exercise and the associated Java files.
+- **Expected Learning Outcome:** After reviewing the activities, it should be clear how each exercise contributes to mastering specific Java concepts and general programming skills, such as input/output, arrays, classes, objects, and foundational OOP principles.
+- **Code Evaluation:** Check for clarity, correctness, and proper implementation of the relevant programming concepts. Reviewers should pay attention to how basic programming principles (such as handling input/output and arrays) are applied, as well as the more advanced OOP principles (like inheritance, polymorphism, abstraction, and encapsulation) in the activities where applicable.
+- **Running the Code:** Reviewers can follow the setup instructions to clone, run, and evaluate the code on their local machines.
 
 ---
 
@@ -124,7 +124,7 @@ You should see a version number indicating that Java is installed correctly.
       
 Alternatively, you can use the command line to compile and run the programs.
 
-#### 🚀 **Running the Programs**
+### 🚀 **Running the Programs**
 **Option 1: Using an IDE**
 1. Open the project folder in your preferred IDE.
 2. Locate the .java file you want to run.
@@ -191,7 +191,8 @@ Here's a look at the structure of this repository, where you'll find various act
  │   ├── Exercise Set 1
  │   │   ├── Welcome.java
  │   │   ├── Escseq.java
- │   │   └── Tempconvert.java   
+ │   │   └── Tempconvert.java
+ └── README.md  
  ```
 
 ---
