@@ -24,54 +24,6 @@ Learn, implement, and build powerful Java applications with Object-Oriented Prog
 
 ---
 
-## 📁 Repository Structure
-
-Here's a look at the structure of this repository, where you'll find various activities and exercises organized in neat subfolders:
-
-```
- AlvarezFrancineAnneCS2102_OOPactivities
- │
- ├── Laboratory Activities
- │   ├── Laboratory Activity 1 – 06-09-2024
- │   │   ├── GettingInputs.java
- │   │   ├── GettingInputs_output (image file)
- │   │   ├── GettingGreater.java
- │   │   └── GettingGreater_output (image file)
- │   │
- │   ├── Laboratory Activity 2 – 04-10-2024
- │   │   ├── GetArrayMean.java
- │   │   ├── GetArrayMean_output (image file)
- │   │   ├── MultiplicationTable.java
- │   │   └── MultiplicationTable_output (image file)
- │   │
- │   ├── Laboratory Activity 3 – 22-11-2024
- │   │   ├── Artists (Subfolder)
- │   │   │   ├── Artist.java
- │   │   │   ├── ArtistDemo.java (driver code)
- │   │   │   ├── Singer.java
- │   │   │   ├── Dancer.java
- │   │   │   ├── Painter.java
- │   │   │   └── Writer.java
- │   │   └── Output Screenshots (Subfolder)
- │   │       └── Provide output screenshots for each derived class.
- │   │
- │   ├── Laboratory Activity 4 – 29-11-2024
- │   │   ├── Shapes (Subfolder)
- │   │   │   ├── Main.java
- │   │   │   ├── Shape.java
- │   │   │   ├── Rectangle.java
- │   │   │   ├── Square.java
- │   │   │   ├── Triangle.java
- │   │   │   ├── ShapeCollection.java
- │   │   └── Lab4-output (image file)
- │
- ├── Exercise Sets
- │   ├── Exercise Set 1
- │   │   ├── Welcome.java
- │   │   ├── Escseq.java
- │   │   └── Tempconvert.java   
- ```
-
 ## 🔍 Lab Activities
 
 ### 📝 **Laboratory Activity 1 – 06-09-2024**
@@ -168,13 +120,63 @@ Alternatively, you can use the command line to compile and run the programs.
 1. Navigate to the folder containing the .java file:
 ```bash
 cd /path/to/your/java/file
+```
 2. Compile the program using javac:
 ```bash
 javac <filename>.java
+```
 3. Run the compiled program with java:
 ```bash
 java <filename>
+```
 
+## 📁 Repository Structure
+
+Here's a look at the structure of this repository, where you'll find various activities and exercises organized in neat subfolders:
+
+```
+ AlvarezFrancineAnneCS2102_OOPactivities (repository name)
+ │
+ ├── Laboratory Activities
+ │   ├── Laboratory Activity 1 – 06-09-2024
+ │   │   ├── GettingInputs.java
+ │   │   ├── GettingInputs_output (image file)
+ │   │   ├── GettingGreater.java
+ │   │   └── GettingGreater_output (image file)
+ │   │
+ │   ├── Laboratory Activity 2 – 04-10-2024
+ │   │   ├── GetArrayMean.java
+ │   │   ├── GetArrayMean_output (image file)
+ │   │   ├── MultiplicationTable.java
+ │   │   └── MultiplicationTable_output (image file)
+ │   │
+ │   ├── Laboratory Activity 3 – 22-11-2024
+ │   │   ├── Artists (Subfolder)
+ │   │   │   ├── Artist.java
+ │   │   │   ├── ArtistDemo.java (driver code)
+ │   │   │   ├── Singer.java
+ │   │   │   ├── Dancer.java
+ │   │   │   ├── Painter.java
+ │   │   │   └── Writer.java
+ │   │   └── Output Screenshots (Subfolder)
+ │   │       └── Provide output screenshots for each derived class.
+ │   │
+ │   ├── Laboratory Activity 4 – 29-11-2024
+ │   │   ├── Shapes (Subfolder)
+ │   │   │   ├── Main.java
+ │   │   │   ├── Shape.java
+ │   │   │   ├── Rectangle.java
+ │   │   │   ├── Square.java
+ │   │   │   ├── Triangle.java
+ │   │   │   ├── ShapeCollection.java
+ │   │   └── Lab4-output (image file)
+ │
+ ├── Exercise Sets
+ │   ├── Exercise Set 1
+ │   │   ├── Welcome.java
+ │   │   ├── Escseq.java
+ │   │   └── Tempconvert.java   
+ ```
 
 ---
 
@@ -183,7 +185,6 @@ java <filename>
 - Output screenshots and examples are included for visual references of each program's execution.
 
 ---
-
 
 **Happy Coding!** ☕️
 
