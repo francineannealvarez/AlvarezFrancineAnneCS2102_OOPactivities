@@ -76,7 +76,7 @@ As you explore the activities, you'll notice that the focus shifts from simple p
 ---
 
 ## 💻 **Exercise Sets**
--📝 **Exercise Set 1**
+- 📝 **Exercise Set 1**
   - **Focus:** Basic programming tasks  
   - **Files:**
      - `Welcome.java` – Prints a welcome message.
