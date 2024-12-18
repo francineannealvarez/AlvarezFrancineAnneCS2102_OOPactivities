@@ -199,7 +199,7 @@ Here's a look at the structure of this repository, where you'll find various act
 
 ## 📌 **Additional Information**
 - All Java files are designed to demonstrate various OOP concepts and enhance your coding skills.
-- Output screenshots and examples are included for visual references of each program's execution.
+- Output screenshots are included for visual references of each program's execution.
 
 ---
 
