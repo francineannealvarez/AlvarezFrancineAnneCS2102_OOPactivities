@@ -28,10 +28,6 @@ Learn, implement, and build powerful Java applications with Object-Oriented Prog
 ---
 
 ## 🔍 **Laboratory Activities**
-The following activities range from basic Java programming tasks to advanced OOP principles:
-- **Basic Topics:** Input/output, arrays, and loops.
-- **Advanced OOP Topics:** Inheritance, polymorphism, abstraction, and encapsulation.
-
 As you explore the activities, you'll notice that the focus shifts from simple programming tasks to advanced applications of Object-Oriented Programming.
 - 📝 **Laboratory Activity 1 – 06-09-2024**
   - **Focus:** Basic inputs  
