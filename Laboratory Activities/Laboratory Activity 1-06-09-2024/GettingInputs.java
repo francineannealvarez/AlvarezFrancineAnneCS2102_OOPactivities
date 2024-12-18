@@ -1,25 +1,23 @@
 import java.util.Scanner;
+
 public class GettingInputs{
     public static void main(String[] args) {
-        Scanner year = new Scanner(System.in);
+        Scanner input = new Scanner(System.in);
         System.out.print("Enter the year: ");
-        int Year = year.nextInt();
+        int Year = input.nextInt();
+        input.nextLine();
 
-        Scanner genre = new Scanner(System.in);
         System.out.print("Enter the genre: ");
-        String Genre = genre.nextLine();
+        String Genre = input.nextLine();
 
-        Scanner album = new Scanner(System.in);
         System.out.print("Enter the album: ");
-        String Album = album.nextLine();
+        String Album = input.nextLine();
 
-        Scanner title = new Scanner(System.in);
         System.out.print("Enter the song title: ");
-        String Title = title.nextLine();
+        String Title = input.nextLine();
 
-        Scanner artist = new Scanner(System.in);
         System.out.print("Enter the artist: ");
-        String Artist = artist.nextLine();
+        String Artist = input.nextLine();
 
         System.out.println("--------------------------");
         System.out.println("SONG DETAILS");
@@ -30,10 +28,6 @@ public class GettingInputs{
         System.out.println("Title: \"" + Title + "\"");
         System.out.println("Artist: " + Artist );
 
-        year.close();
-        genre.close();
-        album.close();
-        title.close();
-        artist.close();
+        input.close();
     }
 }
