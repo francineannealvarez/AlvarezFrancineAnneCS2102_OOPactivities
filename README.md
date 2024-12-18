@@ -27,6 +27,20 @@ Learn, implement, and build powerful Java applications with Object-Oriented Prog
 
 ---
 
+## ✅ **Checklist**  
+This checklist covers all the exercise sets and laboratory activities for CS-211: Object-Oriented Programming.
+
+### 💻 **Exercise Sets**  
+- [ ] Exercise Set 01  
+- [ ] Exercise Set 02  
+- [ ] Exercise Set 03  
+
+### 🧪 **Laboratory Activities**  
+- [ ] Laboratory Activity 01  
+- [ ] Laboratory Activity 02  
+- [ ] Laboratory Activity 03  
+- [ ] Laboratory Activity 04
+
 ## 🔍 **Laboratory Activities**
 The following activities range from basic Java programming tasks to advanced OOP principles:
 - **Basic Topics:** Input/output, arrays, and loops.
