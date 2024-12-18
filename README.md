@@ -43,7 +43,7 @@ As you explore the activities, you'll notice that the focus shifts from simple p
 ---
 
 - 📝 **Laboratory Activity 2 – 04-10-2024**
-  - **Focus:** Arrays and loops  
+  - **Focus:** Java Flow Control, Functions, and Array 
   - **Files:**
      - `GetArrayMean.java` – Computes the mean of an array.
      - `MultiplicationTable.java` – Generates a multiplication table based on user input.
@@ -52,7 +52,7 @@ As you explore the activities, you'll notice that the focus shifts from simple p
 ---
 
 - 📝 **Laboratory Activity 3 – 22-11-2024**
-  - **Focus:** Inheritance and polymorphism  
+  - **Focus:** Encapsulation, Inheritance and Polymorphism  
   - **Files:**
      - **Artists Subfolder:**
         - `Artist.java` – A base class for artists.
