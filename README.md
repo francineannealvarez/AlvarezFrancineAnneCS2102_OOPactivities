@@ -1,4 +1,4 @@
-# ☕️ Java Object-Oriented Programming Laboratory Activities and Exercise Sets 
+# ☕️ **Java Object-Oriented Programming Laboratory Activities and Exercise Sets** 
 
 This repository contains a collection of laboratory activities and exercises created as part of my CS 211: Object-Oriented Programming (OOP) course. Each activity demonstrates core OOP concepts such as inheritance, polymorphism, abstraction, and encapsulation, all implemented in Java. The activities are designed to help deepen understanding and showcase practical application of these concepts.
 
@@ -8,17 +8,17 @@ The repository includes:
 
 Exploring this repository will give you hands-on experience with Java programming, focusing on OOP principles.
 
-## 📚 Purpose and Learning Goals of This Repository 
+## 📚 **Purpose of This Repository** 
 The purpose of this repository is multifaceted:
-1. **Track Progress**: It documents my journey of learning and mastering the Java programming language, highlighting progress through hands-on laboratory activities and exercises.
-2. **Reference Material**: It provides a clear reference for fellow students and aspiring developers, offering examples of both basic and advanced Java concepts.
-3. **Practical Application**: Showcase how OOP principles are used in real-world programming. You’ll see how these concepts are applied in various laboratory activities and exercise sets.
-4. **Collaborative Learning**: By sharing this repository, I hope to inspire others to learn, grow, and build their own Java applications. 
-5. **Balance Between Basic and Advanced Topics**: This repository covers both foundational Java concepts (input/output, arrays, loops) and advanced OOP principles (inheritance, polymorphism, abstraction, and encapsulation). Early activities focus on basics, while later activities introduce more complex topics, ensuring a smooth learning progression.
+1. **Track Progress:** Document my journey of learning Java, showcasing progress through hands-on laboratory activities and exercises.
+2. **Reference Material:** Provides a clear reference for fellow students and aspiring developers, offering examples of both basic and advanced Java concepts.
+3. **Solve Programming Challenges:** Explore and compare procedural, functional, and object-oriented approaches to tackle complex computer problems.
+4. **Practical Application:** Demonstrate the use of OOP principles like abstraction, encapsulation, inheritance, and polymorphism in real-world programming scenarios.
+5. **Collaborative Learning:** Share knowledge to inspire others to grow and build robust applications using Java’s core features.
    
 ---
 
-## ✨ Core Java OOP Concepts
+## ✨ **Java OOP Concepts**
 Learn, implement, and build powerful Java applications with Object-Oriented Programming concepts such as:
 - **Inheritance:** Creating classes that inherit properties and behaviors from other classes.
 - **Polymorphism:** Using objects of different classes interchangeably through inheritance.
@@ -27,7 +27,7 @@ Learn, implement, and build powerful Java applications with Object-Oriented Prog
 
 ---
 
-## 🔍 Laboratory Activities
+## 🔍 **Laboratory Activities**
 The following activities range from basic Java programming tasks to advanced OOP principles:
 - **Basic Topics:** Input/output, arrays, and loops.
 - **Advanced OOP Topics:** Inheritance, polymorphism, abstraction, and encapsulation.
@@ -93,7 +93,7 @@ As you explore the activities, you'll notice that the focus shifts from simple p
 
 ---
 
-## 🖥️ Instructions for Running the Program
+## 🖥️ **Instructions for Running the Program**
 
 ### 🛠️ Setup Instructions
 
@@ -106,7 +106,7 @@ cd AlvarezFrancineAnneCS2102_OOPactivities
 ```
 Alternatively, you can download the repository as a ZIP file and extract it.
 
-#### ⚙️ **Install JDK (Java Development Kit)**
+#### ⚙️ Install JDK (Java Development Kit)
 1. Download and install the Java Development Kit (JDK). Ensure you have JDK 8 or a later version installed.
 
 2. Confirm the installation by running the following command in your terminal or command prompt:
@@ -115,7 +115,7 @@ java -version
 ```
 You should see a version number indicating that Java is installed correctly.
 
-#### 🖥️ **Install a Java IDE or Text Editor**
+#### 🖥️ Install a Java IDE or Text Editor
 - Choose and install a Java-friendly IDE or text editor for writing and running code. Some recommended options:
     - IntelliJ IDEA
     - Eclipse
@@ -124,7 +124,7 @@ You should see a version number indicating that Java is installed correctly.
       
 Alternatively, you can use the command line to compile and run the programs.
 
-### 🚀 **Running the Programs**
+### 🚀 Running the Programs
 **Option 1: Using an IDE**
 1. Open the project folder in your preferred IDE.
 2. Locate the .java file you want to run.
@@ -146,7 +146,7 @@ javac <filename>.java
 java <filename>
 ```
 
-## 📁 Repository Structure
+## 📁 **Repository Structure**
 
 Here's a look at the structure of this repository, where you'll find various activities and exercises organized in neat subfolders:
 
@@ -202,6 +202,11 @@ Here's a look at the structure of this repository, where you'll find various act
 - Output screenshots and examples are included for visual references of each program's execution.
 
 ---
+
+## 📬 **Contact**
+If you have any questions, need further information, or have feedback, feel free to reach out!
+- **Github Account:** https://github.com/francineannealvarez
+- **Email:** 23-09780@g.batstate-u.edu.ph
 
 **Happy Coding!** ☕️
 
