@@ -204,5 +204,7 @@ If you have any questions, need further information, or have feedback, feel free
 - **Github Account:** https://github.com/francineannealvarez
 - **Email:** 23-09780@g.batstate-u.edu.ph
 
+---
+
 **Happy Coding!** ☕️
 
